@@ -1,0 +1,38 @@
+[
+    {
+        "name": "毛特",
+        "start-date": "2024-11-25",
+        "delta-weeks": 2,
+        "class-index": 1
+    },
+    {
+        "name": "光电检测",
+        "start-date": "2024-11-26",
+        "delta-weeks": 2,
+        "class-index": 1
+    },
+    {
+        "name": "习思想",
+        "start-date": "2024-11-26",
+        "delta-weeks": 2,
+        "class-index": 2
+    },
+    {
+        "name": "数字信号",
+        "start-date": "2024-11-26",
+        "delta-weeks": 2,
+        "class-index": 4
+    },
+    {
+        "name": "光电检测",
+        "start-date": "2024-11-27",
+        "delta-weeks": 2,
+        "class-index": 5
+    },
+    {
+        "name": "数字信号",
+        "start-date": "2024-11-28",
+        "delta-weeks": 2,
+        "class-index": 4
+    }
+]
