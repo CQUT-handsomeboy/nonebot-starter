@@ -14,3 +14,21 @@ plugin_dirs = [
     "plugins"
 ]
 builtin_plugins = ["echo"]
+
+[tool.poetry]
+name = "nonebot-starter"
+version = "0.1.0"
+description = ""
+authors = ["Hanjiang <17830831606@163.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+nonebot2 = {extras = ["fastapi"], version = "^2.4.0"}
+nonebot-adapter-onebot = "^2.4.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

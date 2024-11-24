@@ -6,6 +6,11 @@
 
 ```bash
 pipx install nb-cli # 安装nonebot cli
+# 激活虚拟环境
+python -m venv .venv
+.venv\Scripts\activate
+# 安装依赖
+poetry install
 ```
 
 ## 运行
